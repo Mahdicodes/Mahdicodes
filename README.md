@@ -39,10 +39,9 @@
 
 ![DM me Discord](https://discord.c99.nl/widget/theme-1/366997934983872512.png)
     
-[github]: https://github.com/nimaw
-[linkedin]: https://www.linkedin.com/in/nima-tf-0a1b801bb
+[github]: https://github.com/Mahdicodes
 [telegram]: https://t.me/Mahdicodes
-[mail]: mailto:nimatafrishi@hotmail.com
+[mail]: mailto:Mahdikhan.mar@gmail.com
 [discord]: https://discord.bio/p/Makhdi#4684
 
 ---
@@ -51,7 +50,7 @@
 <br>
 <br>
 Total Visitors<br>
-<img src="https://profile-counter.glitch.me/nimaw/count.svg" />
+<img src="https://profile-counter.glitch.me/Mahdicodes/count.svg" />
 </h3>
 <br>
 <br>  
