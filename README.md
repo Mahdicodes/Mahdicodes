@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web Development
 - 🌱 I’m currently learning php
-- 💬 Ask me about python,djnago,html and css
+- 💬 Ask me about python,django,html and css
 - 📫 How to reach me: 
 Mahdikhan.mar@gmail.com
 Discord : Makhdi#4684
