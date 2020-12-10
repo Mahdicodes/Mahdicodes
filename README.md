@@ -41,9 +41,9 @@
     
 [github]: https://github.com/nimaw
 [linkedin]: https://www.linkedin.com/in/nima-tf-0a1b801bb
-[telegram]: https://t.me/Nima_tf
+[telegram]: https://t.me/Mahdicodes
 [mail]: mailto:nimatafrishi@hotmail.com
-[discord]: https://discord.bio/p/nima
+[discord]: https://discord.bio/p/Makhdi#4684
 
 ---
 
