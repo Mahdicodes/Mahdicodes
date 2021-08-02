@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web Development
-- 🌱 I’m currently learning php
 - 💬 Ask me about python,django,html,css and a little jquery
 
 ### Contact me:
