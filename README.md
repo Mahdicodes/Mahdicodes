@@ -36,7 +36,7 @@
 [github]: https://github.com/Mahdicodes
 [telegram]: https://t.me/Mahdicodes
 [mail]: mailto:Mahdikhan.mar@gmail.com
-[discord]: https://discord.bio/p/Makhdi#4684
+[discord]: https://discord.bio/p/Meti🦕#0934
 
 ---
 
