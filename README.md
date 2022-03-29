@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on web Development
-- 💬 Ask me about python,django,html,css and a little jquery
+- 💬 Ask me about python,django,js,react,nextjs,html,css and a little jquery
 
 ### Contact me:
 
